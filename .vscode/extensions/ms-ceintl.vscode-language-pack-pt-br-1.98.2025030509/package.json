@@ -390,7 +390,7 @@
 		"update": "cd ../vscode && npm run update-localization-extension pt_BR"
 	},
 	"__metadata": {
-		"installedTimestamp": 1741212143349,
+		"installedTimestamp": 1741298765171,
 		"size": 1645120
 	}
 }
