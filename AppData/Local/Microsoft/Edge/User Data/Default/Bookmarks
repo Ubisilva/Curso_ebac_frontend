@@ -1,0 +1,124 @@
+{
+   "checksum": "6ac86d6256953810f459ac40de4d39c5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13384749463236291",
+            "date_last_used": "0",
+            "guid": "8a8234b3-f28d-47b7-83ab-0ff10117b32a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Manga Livre | Leitor Online e Host de Mangás PT-BR!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mangalivre.ru/",
+            "visit_count": 1
+         }, {
+            "date_added": "13385587286546533",
+            "date_last_used": "0",
+            "guid": "44472218-ac2b-4926-bc15-8e15d281083f",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aula 2: Ambientes e Projetos — EBAC LMS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lms.ebaconline.com.br/lesson/b6c03b1e-7f14-4842-bedc-3ddf87c40f86",
+            "visit_count": 1
+         }, {
+            "date_added": "13385783374759373",
+            "date_last_used": "0",
+            "guid": "42f993a6-b0fc-4509-8309-9e36bcf28899",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Animes HD - Assistir Animes Online em HD",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://animeshd.to/",
+            "visit_count": 1
+         } ],
+         "date_added": "13385701494100645",
+         "date_last_used": "0",
+         "date_modified": "13385783374759373",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13383273971656781",
+            "date_last_used": "0",
+            "guid": "3c464c35-0119-42de-bc7d-6baa15cada1f",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Atividades Volta às Aulas 1º ao 5º Ano para Imprimir",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ieducacao.com/atividades-volta-as-aulas-1o-ao-5o-ano/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384749443733410",
+            "date_last_used": "0",
+            "guid": "b2d928cb-1412-4786-93c2-8e5dd0086d7d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "One Piece - Capitulo 610 - MangaLivre",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mangalivre.ru/manga/one-piece/capitulo-610/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384801125306970",
+            "date_last_used": "0",
+            "guid": "361dc293-4bd1-4d13-8678-322e5c09bc9a",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nova guia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 1
+         } ],
+         "date_added": "13385701494100652",
+         "date_last_used": "0",
+         "date_modified": "13384801125306970",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13385701494100656",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCFAWQ2mVAQAAKg4QABgBIAAoBTAAOABAABIAKhhVTWczbDlhQXJkekhqUmVpRDBYTVJnPT1IA6AGDBKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjMGM5ZjZhNC00NGM3LTU1MzAtYjFmMC00YTNhY2Q1N2NmZWEYACAAKAAwmeDJ4bMuON7q4KnwL0De6uCp8C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMjlmZDJlNGUtMWIyMS01N2JmLTg2ZmEtYzM1OGYyNzk2ODJiGAAgACgAMJXgyeGzLjif6uCp8C9An+rgqfAvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEq0BCAgSqAEKHDdqWlRVS01qQitRcHNpajB4UDJvTTV2MjVZUT0SJDM2MWRjMjkzLTRiZDEtNGQxMy04Njc4LTMyMmU1YzA5YmM5YRgAIAAoADDey+qc0zI4+8vqnNMyQPvL6pzTMkocUGlyYkgvOFJOK09SbEx3SXlBUVMrbnpESzZJPVofIh3uWkd2N0t1TGpMcTQzQWtvUW9VWFUwTnQrT3VrPWVU1WA+wj4CYAUSrAEIBhKnAQocR2h2SHB5TjBFd25kNzE5Q21laGw5dlh1UnQ4PRIkM2M0NjRjMzUtMDExOS00MmRlLWJjN2QtNmJhYTE1Y2FkYTFmGAAgACgAMKLE0MTNMjiGxtDEzTJAhsbQxM0yShx6dHBpQmZEazczZnNCUUFGK25RazQvL1VWL2c9Wh4iHHNmZkpTT29scVk5Q1FQWDVjU3hzcVJ2TnQwbz1lmJ3gOsI+AmAFErEBCA0SrAEKHFk1SWFmc1NMaXVxQ0hLOCtYT2ZTcFNDL0cyMD0SJDQyZjk5M2E2LWIwZmMtNDUwOS04MzA5LTllMzZiY2YyODg5ORgAIAIoADD///////////8BOKmXmvHWMkDZmJrx1jJKHGJINnh1RWNVWjBZQ09WRUwvcmFRRjc1ZVdFYz1aHyIdqktRKzJtK0l4MnRpVVlpR0xrdVdZR2VRU21hTT1lj1brQ8I+AmAGEq0BCAcSqAEKHFI2NzVCNzNkNWZVREdSUzRVUVJPOFNUQm5WRT0SJGIyZDkyOGNiLTE0MTItNDc4Ni05M2MyLThlNWRkMDA4NmQ3ZBgAIAAoADCcmJiE0zI4u5iYhNMyQLuYmITTMkoccWdUdkQzYjZrcUhyME54Q05SaWJpREN0WjNZPVofIh25bHh1TEN3REREK0NuaktLLy96SXhHT1MrWXlFPWV2hxpnwj4CYAUSrAEICRKnAQocRDgwTXk5RUx0OXpGWnoyaFpjMU5ySmd6cXNNPRIkOGE4MjM0YjMtZjI4ZC00N2I3LTgzYWItMGZmMTAxMTdiMzJhGAAgACgAMKSR7pzTMjjSsJmE0zJA0rCZhNMyShxNMkx5UHI1V2hsNGZhWWQ3em5FWVZxZG1DVzQ9Wh4iHDNzTlN4Zlp5bkxSY01ldEJHbmhxaEdkUVpHaz1ldocaZ8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDFmZTk3YWVhLTJjMDMtNTM5Zi04MDQ0LTljYTFiN2Q2YzEyNRgAIAAoADCU4Mnhsy44kOrgqfAvQJDq4KnwL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgKEqcBChw4dm1xcFVDWElkOEYzVTNmVXJrNUJVbFE2ZFk9EiQ0NDQ3MjIxOC1hYzJiLTQ5MjYtYmMxNS04ZTE1ZDI4MTA4M2YYACAAKAAw3ovak9YyOMKM2pPWMkDCjNqT1jJKHHoyOEcwVExad3JydTRycVJSeXUwaTJyUFQ0ST1aHiIcVGNhZEVPZGJabzFYSzVIMm9TTjdJU2h3STM4PWW26d6+wj4CYAUwADgA",
+   "version": 1
+}

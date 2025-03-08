@@ -1,0 +1,110 @@
+{
+   "checksum": "102f93c0f6c48336feaf4bcfa7b1c8e7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13384749463236291",
+            "date_last_used": "0",
+            "guid": "8a8234b3-f28d-47b7-83ab-0ff10117b32a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Manga Livre | Leitor Online e Host de Mangás PT-BR!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mangalivre.ru/",
+            "visit_count": 1
+         }, {
+            "date_added": "13385587286546533",
+            "date_last_used": "0",
+            "guid": "44472218-ac2b-4926-bc15-8e15d281083f",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aula 2: Ambientes e Projetos — EBAC LMS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lms.ebaconline.com.br/lesson/b6c03b1e-7f14-4842-bedc-3ddf87c40f86",
+            "visit_count": 1
+         } ],
+         "date_added": "13385701494100645",
+         "date_last_used": "0",
+         "date_modified": "13385587286546533",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13383273971656781",
+            "date_last_used": "0",
+            "guid": "3c464c35-0119-42de-bc7d-6baa15cada1f",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Atividades Volta às Aulas 1º ao 5º Ano para Imprimir",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ieducacao.com/atividades-volta-as-aulas-1o-ao-5o-ano/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384749443733410",
+            "date_last_used": "0",
+            "guid": "b2d928cb-1412-4786-93c2-8e5dd0086d7d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "One Piece - Capitulo 610 - MangaLivre",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mangalivre.ru/manga/one-piece/capitulo-610/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384801125306970",
+            "date_last_used": "0",
+            "guid": "361dc293-4bd1-4d13-8678-322e5c09bc9a",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nova guia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 1
+         } ],
+         "date_added": "13385701494100652",
+         "date_last_used": "0",
+         "date_modified": "13384801125306970",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13385701494100656",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCFAWQ2mVAQAAKg4QABgBIAAoBTAAOABAABIAKhhVTWczbDlhQXJkekhqUmVpRDBYTVJnPT1IA6AGDBKsAQgKEqcBChw4dm1xcFVDWElkOEYzVTNmVXJrNUJVbFE2ZFk9EiQ0NDQ3MjIxOC1hYzJiLTQ5MjYtYmMxNS04ZTE1ZDI4MTA4M2YYACAAKAAw3ovak9YyOMKM2pPWMkDCjNqT1jJKHHoyOEcwVExad3JydTRycVJSeXUwaTJyUFQ0ST1aHiIcVGNhZEVPZGJabzFYSzVIMm9TTjdJU2h3STM4PWW26d6+wj4CYAUSrAEICRKnAQocRDgwTXk5RUx0OXpGWnoyaFpjMU5ySmd6cXNNPRIkOGE4MjM0YjMtZjI4ZC00N2I3LTgzYWItMGZmMTAxMTdiMzJhGAAgACgAMKSR7pzTMjjSsJmE0zJA0rCZhNMyShxNMkx5UHI1V2hsNGZhWWQ3em5FWVZxZG1DVzQ9Wh4iHDNzTlN4Zlp5bkxSY01ldEJHbmhxaEdkUVpHaz1ldocaZ8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDFmZTk3YWVhLTJjMDMtNTM5Zi04MDQ0LTljYTFiN2Q2YzEyNRgAIAAoADCU4Mnhsy44kOrgqfAvQJDq4KnwL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgHEqgBChxSNjc1QjczZDVmVURHUlM0VVFSTzhTVEJuVkU9EiRiMmQ5MjhjYi0xNDEyLTQ3ODYtOTNjMi04ZTVkZDAwODZkN2QYACAAKAAwnJiYhNMyOLuYmITTMkC7mJiE0zJKHHFnVHZEM2I2a3FIcjBOeENOUmliaURDdFozWT1aHyIduWx4dUxDd0RERCtDbmpLSy8vekl4R09TK1l5RT1ldocaZ8I+AmAFEqwBCAYSpwEKHEdodkhweU4wRXduZDcxOUNtZWhsOXZYdVJ0OD0SJDNjNDY0YzM1LTAxMTktNDJkZS1iYzdkLTZiYWExNWNhZGExZhgAIAAoADCixNDEzTI4hsbQxM0yQIbG0MTNMkocenRwaUJmRGs3M2ZzQlFBRituUWs0Ly9VVi9nPVoeIhxzZmZKU09vbHFZOUNRUFg1Y1N4c3FSdk50MG89ZZid4DrCPgJgBRKtAQgIEqgBChw3alpUVUtNakIrUXBzaWoweFAyb001djI1WVE9EiQzNjFkYzI5My00YmQxLTRkMTMtODY3OC0zMjJlNWMwOWJjOWEYACAAKAAw3svqnNMyOPvL6pzTMkD7y+qc0zJKHFBpcmJILzhSTitPUmxMd0l5QVFTK256REs2ST1aHyId7lpHdjdLdUxqTHE0M0Frb1FvVVhVME50K091az1lVNVgPsI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDI5ZmQyZTRlLTFiMjEtNTdiZi04NmZhLWMzNThmMjc5NjgyYhgAIAAoADCV4Mnhsy44n+rgqfAvQJ/q4KnwL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjMGM5ZjZhNC00NGM3LTU1MzAtYjFmMC00YTNhY2Q1N2NmZWEYACAAKAAwmeDJ4bMuON7q4KnwL0De6uCp8C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

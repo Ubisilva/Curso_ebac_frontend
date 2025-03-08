@@ -1,0 +1,4 @@
+2025/03/07-09:57:12.460 8d20 Reusing MANIFEST C:\Users\Familia\AppData\Local\Microsoft\Edge\User Data\Default\PriceComparisonAssetStore.db/MANIFEST-000001
+2025/03/07-09:57:13.429 8d20 Recovering log #3
+2025/03/07-09:57:13.430 8d20 (ignoring error) C:\Users\Familia\AppData\Local\Microsoft\Edge\User Data\Default\PriceComparisonAssetStore.db/000003.log: dropping 4579 bytes; Corruption: checksum mismatch
+2025/03/07-09:57:13.433 8d20 Reusing old log C:\Users\Familia\AppData\Local\Microsoft\Edge\User Data\Default\PriceComparisonAssetStore.db/000003.log 
