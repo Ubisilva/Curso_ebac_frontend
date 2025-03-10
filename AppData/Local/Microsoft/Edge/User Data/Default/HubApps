@@ -4,6 +4,7 @@
       "auto_open_v2": [ {
          "approved_channels": [ "canary" ],
          "enabled": false,
+         "enabled|auth:aad": false,
          "enabled|flight:msEdgeHubAppsCopilotAutoOpenOnNtp": true,
          "force_auto_open": false,
          "id": "e06e75c1-a59a-4ab6-8361-e8b038e00a8c",
@@ -31,9 +32,9 @@
       "description": "Informações contextualmente relevantes para qualquer página",
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_rainbow.png/1.3.19/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_hc.png/1.3.19/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_rainbow.png/1.3.19/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_rainbow.png/1.3.21/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_hc.png/1.3.21/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_copilot_rainbow.png/1.3.21/asset"
          }
       },
       "id": "cd4688a9-e888-48ea-ad81-76193d56b1be",
@@ -105,7 +106,7 @@
       "target": {
          "command": "discover_chat"
       },
-      "version": "1.3.19"
+      "version": "1.3.21"
    }, {
       "capabilities": {
          "deprecated_hide_header": true
